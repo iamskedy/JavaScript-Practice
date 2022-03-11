@@ -1,4 +1,4 @@
-
+// switch case
 
 let day = 2;
 
